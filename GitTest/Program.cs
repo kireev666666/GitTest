@@ -7,6 +7,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.Write("Git");
+            var bla = false;
         }
     }
 }
